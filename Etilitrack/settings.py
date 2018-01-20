@@ -25,7 +25,7 @@ SECRET_KEY = 'agq=^ijg9ljj@-w)r+_7=%dt5s0088v1@y29&#m&#k&ju=!r&('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','etilitrack.pythonanywhere.com']
 
 
 # Application definition
